@@ -1,2 +1,2 @@
-require "./app/pet_salon_app"
+require "./pet_salon_app"
 run PetSalonApp
