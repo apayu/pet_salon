@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'sinatra'
+gem 'rspec'
 gem "capistrano"
 gem "capistrano-bundler"
 gem 'capistrano-rbenv', '~> 2.1', '>= 2.1.4'
